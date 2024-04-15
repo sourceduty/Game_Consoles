@@ -17,6 +17,11 @@ Xbox consoles have evolved significantly in design across their five models. The
 Predicting the release of the PlayStation 6 and the next Xbox generation involves considering typical console lifecycles, which have historically ranged between 6-8 years. Given this pattern, and considering the release of the PlayStation 5 and Xbox Series X in 2020, a plausible estimate for the release of PlayStation 6 and Xbox Series 6 would be around 2026 to 2028. This timeline aligns with past generational updates and the likely ongoing development of new technology that will power the next consoles.
 
 #
+### Xbox Pocket
+
+Imagine the "Xbox Nano," a pocket-sized gaming marvel designed for ultimate portability. Sleek and minimalist in design, it fits snugly in your hand or pocket while delivering impressive performance powered by advanced hardware. Equipped with essential ports for connectivity, it seamlessly integrates with Xbox-compatible controllers for gaming on the go. Despite its small size, it boasts Wi-Fi connectivity for online gaming and streaming services. With a streamlined user interface optimized for the small screen, the Xbox Nano offers easy access to games, settings, and online features. Whether you're on the move or relaxing at home, this compact console provides hours of gaming enjoyment, making it a must-have for gaming enthusiasts everywhere.
+
+#
 ### Playstation Design
 
 PlayStation consoles have also seen varied designs over their generations. The original PlayStation, released in 1994, was characterized by a simple, gray rectangular box with a top-loading disc tray. The PlayStation 2, launched in 2000, adopted a black color scheme and could be positioned both horizontally and vertically, a novelty at the time. The PlayStation 3, which came out in 2006, featured a more rounded design with a glossy finish, making it stand out as a high-tech appliance. The PlayStation 4, released in 2013, shifted to a more angular and sleek design with a two-tone color scheme. The most recent, PlayStation 5, launched in 2020, sports a futuristic design with a larger, more prominent build and a striking white and black color scheme with blue lighting accents, making it the most visually distinctive model so far.
