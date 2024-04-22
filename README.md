@@ -28,7 +28,7 @@ PlayStation consoles have also seen varied designs over their generations. The o
 
 ***
 
-### Potential Project Directions
+#### Potential Project Directions
 
 1. Historical Context and Analysis: Include sections on the historical development of each console generation, focusing on technological innovations and their impacts.
 
