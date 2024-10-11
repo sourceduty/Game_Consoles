@@ -1,3 +1,9 @@
+![Xbox](https://github.com/user-attachments/assets/3e40113e-1884-4670-80e1-7836cae1e252)
+
+> Video game console design and information.
+
+#
+
 ![PlayStation_Xbox_Release_Timeline](https://github.com/sourceduty/Game_Consoles/assets/123030236/1646f016-b39f-46ed-a39d-66763603e444)
 
 This chart provides a comparative visualization of the release timelines for the major console models from Sony's PlayStation and Microsoft's Xbox lines. Sony introduced its first PlayStation in 1994, establishing a brand that would see four more major releases over the next three decades, with the latest being the PlayStation 5 in 2020. Similarly, Microsoft entered the gaming console market with the Xbox in 2001 and has since released four additional major models, culminating in the Xbox Series X and Series S in 2020. The timeline illustrates not only the evolution and technological advancements in gaming consoles by each company but also highlights the parallel progression and competition in the gaming industry, with both companies releasing their most recent consoles in the same year.
@@ -49,6 +55,11 @@ PlayStation consoles have also seen varied designs over their generations. The o
 9. Repository Structure and Documentation:  Organize content into folders, improve the README file with a table of contents, section headings, and contribution guidelines.
 
 10. Visual Enhancements: Enhance the repository with more images, videos, and custom graphics to make the information more engaging.
+
+#
+### Related Links
+
+[Gaming](https://github.com/sourceduty/Gaming)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
