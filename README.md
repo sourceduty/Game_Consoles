@@ -30,6 +30,8 @@ Imagine the "Xbox Nano," a pocket-sized gaming marvel designed for ultimate port
 #
 ### Playstation Design
 
+![Retrostation2](https://github.com/user-attachments/assets/6208682a-068f-42cd-9dc3-66568f676b1d)
+
 PlayStation consoles have also seen varied designs over their generations. The original PlayStation, released in 1994, was characterized by a simple, gray rectangular box with a top-loading disc tray. The PlayStation 2, launched in 2000, adopted a black color scheme and could be positioned both horizontally and vertically, a novelty at the time. The PlayStation 3, which came out in 2006, featured a more rounded design with a glossy finish, making it stand out as a high-tech appliance. The PlayStation 4, released in 2013, shifted to a more angular and sleek design with a two-tone color scheme. The most recent, PlayStation 5, launched in 2020, sports a futuristic design with a larger, more prominent build and a striking white and black color scheme with blue lighting accents, making it the most visually distinctive model so far.
 
 ***
