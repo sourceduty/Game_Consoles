@@ -67,6 +67,8 @@ PlayStation consoles have also seen varied designs over their generations. The o
 [Gaming](https://github.com/sourceduty/Gaming)
 <br>
 [Pi Game](https://github.com/sourceduty/Pi_Game)
+<br>
+[Game Hacker](https://github.com/sourceduty/Game_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
